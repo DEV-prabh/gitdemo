@@ -1,5 +1,4 @@
 # gitdemo
-demo of git 
-<br>
-and github
-hj
+demo of git and github
+what the fuck is this github
+
